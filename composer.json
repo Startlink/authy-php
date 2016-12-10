@@ -1,9 +1,9 @@
 {
-    "name": "authy/php",
+    "name": "Startlink/authy-php",
     "type": "library",
     "description": "PHP client for Authy",
     "keywords": ["api", "authentication", "two-factor"],
-    "homepage": "https://github.com/authy/authy-php",
+    "homepage": "https://github.com/Startlink/authy-php",
     "license": "MIT",
     "require": {
         "php": ">=5.3.0",
